@@ -1,0 +1,51 @@
+1. Domain Name vs host name
+=>"https://www.example.com", // "example.com" is the domain name.
+
+=> "username@example.com",  //"example.com" is the domain name and "username" is the host name.
+
+summery
+=>In summary, a domain name is used to identify a website, while a host name is used to identify a specific device or server within a network.
+
+
+2.What is computer network?
+=>A computer network is a group of interconnected computers and other devices, such as servers, printers, and routers,
+ that can communicate with each other to share information and resources.
+
+3.What is internet?
+=>The internet is a global network of interconnected computers and 
+servers that use standardized communication protocols to exchange data and information.
+
+4.what is www?
+=>The World Wide Web (WWW or simply the Web) is a system of interconnected documents and resources 
+that are accessed over the internet using a web browser.
+
+5.what is DNS.?
+=>DNS stands for Domain Name System, which is a hierarchical naming system used to translate human-readable domain names into 
+IP addresses that computers can understand.
+
+6.IP address
+=> An IP address is a unique identifier assigned to every device that is connected to a computer network, including the internet
+
+#why ip addresss
+->i.Addressing
+
+7. port number
+=>A port number is a 16-bit number used to identify specific processes or services running on a computer.
+ When a computer sends data to another computer over a network, 
+it includes both the IP address and the port number of the destination process or service in the data packet.
+
+#why port number..?
+=>By using different port numbers, the operating system can ensure that incoming network
+ traffic is correctly routed to the correct process or service.
+
+
+8.protocol
+=>In the context of computer networking, a protocol refers to a set of rules and 
+standards that govern how data is transmitted, received, and processed between devices on a network. 
+
+9.TCP/Ip protocol (http,smtp=> depends on tcp/ip)
+=> Transmission Control Protocol (TCP): which provide reliable,error free and efficient data transmission over the internet.
+=> Internet Protocol (IP): for Routing
+
+10.web socket
+=>A WebSocket is a protocol that provides full-duplex communication between a client and a server over a single TCP connection.
